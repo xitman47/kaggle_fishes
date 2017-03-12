@@ -1,0 +1,13 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/data
+#
+.inclass.kaggle.com	TRUE	/	FALSE	1548970839	__utma	100197190.545160184.1485898773.1485898773.1485898773.1
+.inclass.kaggle.com	TRUE	/	FALSE	1501666839	__utmz	100197190.1485898773.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.kaggle.com	TRUE	/	FALSE	1551821557	__utma	158690720.176629807.1480963724.1488672811.1488749549.78
+.kaggle.com	TRUE	/	FALSE	1504517557	__utmz	158690720.1487614060.73.25.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.kaggle.com	TRUE	/	TRUE	1551821562.116983	.ASPXAUTH	FE3EAA3768B805E4D4C2016E3EF546DD6D1A4A197191587D8FAC84889110AB1AE79ECE5C0FA29A9D81B300F8AFE2B3AC263DF4CD37DD377AFB4EDF126F08B5C3CBE756D3B1CCD9B437298B594B09A1EBAAF61556
+.blog.kaggle.com	TRUE	/	FALSE	1552166287	__utma	176227318.1017052926.1487967407.1489088094.1489094288.5
+.blog.kaggle.com	TRUE	/	FALSE	1504862287	__utmz	176227318.1488405547.2.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	2fefb9493398cda510d8299a06f9af22682f5ad5ff8b8f7ef1aff42d1ff13c78
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	DktaFgptDx4rZm3nD2wq0Fq4JN18qGvUb33vmqoDFdTTyG9hPL3jkV052g9v-_HiL3uuVSHPStpTGufX5YeWNw69b_w1
